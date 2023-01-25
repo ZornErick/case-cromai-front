@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/case-cromai-front/static/css/main.ddd02b75.css",
+    "main.js": "/case-cromai-front/static/js/main.65e0f9ec.js",
+    "index.html": "/case-cromai-front/index.html",
+    "main.ddd02b75.css.map": "/case-cromai-front/static/css/main.ddd02b75.css.map",
+    "main.65e0f9ec.js.map": "/case-cromai-front/static/js/main.65e0f9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd02b75.css",
+    "static/js/main.65e0f9ec.js"
+  ]
+}
